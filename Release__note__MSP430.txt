@@ -1,0 +1,12 @@
+UART MSP430 Report :
+
+I-   UART Mode & Registers Required 
+
+II-  Baud rate configuration & Algorithm to transfer data serially 
+
+III- Main program for the UART on CCS_V8 
+
+
+By EROUCH Zouhir
+
+18/02/2019
